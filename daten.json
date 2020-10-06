@@ -1,0 +1,15 @@
+[{
+	"vorname":"Max",
+	"nachname": "Mustermann",
+	"geschlecht": "m",
+	"alter": 24,
+	"plz": 70378,
+	"nummer": "0123456789"
+}, {
+	"vorname": "Erika",
+	"nachname": "Musterfrau",
+	"geschlecht": "w",
+	"alter": 27,
+	"plz": 70174,
+	"nummer": "0123456789"
+}]
